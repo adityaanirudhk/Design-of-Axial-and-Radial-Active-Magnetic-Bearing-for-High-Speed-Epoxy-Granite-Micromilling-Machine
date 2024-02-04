@@ -1,0 +1,2 @@
+# Design-of-Axial-and-Radial-Active-Magnetic-Bearing-for-High-Speed-Epoxy-Granite-Micromilling-Machine
+This project addresses issues with current CNC micromilling machine bearings, limiting spindle speed to 20,000 rpm due to friction. Conventional bearings cause thermal complications and tool chatter, disrupting precision machining for tolerances under 5 micrometers. Axial and Radial Magnetic Bearings (AMB) aim to reduce friction.
